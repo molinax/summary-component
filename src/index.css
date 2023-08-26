@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --pale-blue: hsl(228, 91%, 96%);
+  --bright-blue: hsl(245, 75%, 52%);
+
+  --very-pale-blue: hsl(240, 14%, 97%);
+  --desaturated-blue: hsl(224, 23%, 55%);
+  --dark-blue: hsl(223, 47%, 23%);
+}
